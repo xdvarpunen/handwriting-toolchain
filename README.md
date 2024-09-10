@@ -2,6 +2,8 @@
 
 This is handwriting suite designed to be used with Windows operating system and Python programming language.
 
+Development follows machine learning process.
+
 - Input preprocessing
   - Silky Shark https://github.com/stoicshark/silkyshark
   - Lazy Nezumi Pro https://lazynezumi.com/
@@ -12,3 +14,4 @@ This is handwriting suite designed to be used with Windows operating system and 
  - Inspect drawing points csv file using visidata https://www.visidata.org/
 - Create own script for feature generation
 - Create own script for recognition on drawing points and data produced in feature generation data types
+- Reuse create folder scripts for debugging and testing the recognition
