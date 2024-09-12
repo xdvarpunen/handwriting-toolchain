@@ -1,6 +1,6 @@
-# handwriting-suite
+# handwriting-toolchain
 
-This is handwriting suite designed to be used with Windows operating system and Python programming language.
+This is handwriting toolchain designed to be used with Windows operating system and Python programming language.
 
 Development follows machine learning process.
 
